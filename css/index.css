@@ -285,7 +285,7 @@ section h2 {
 }
 
 .section:first-child {
-  animation-name: first-about-me-animation;
+  animation-name: intro-section;
   animation-duration: 1s;
   animation-timing-function: ease-in;
   animation-fill-mode: forwards;
@@ -381,7 +381,7 @@ article li {
   font-family: roboto mono;
 }
 
-#projects-section {
+#projects #projects-section {
   display: flex;
 }
 
